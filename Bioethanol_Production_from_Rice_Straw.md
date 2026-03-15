@@ -72,16 +72,6 @@ Cellulase and hemicellulase enzymes convert the exposed cellulose and hemicellul
 
 Fermentable sugars are converted into ethanol by microorganisms, most commonly yeast (Saccharomyces cerevisiae). Indian research includes efforts to isolate and utilize robust local strains for higher efficiency ([JRASB, 2026](https://jrasb.com/index.php/jrasb/article/view/259)).
 
-### Process Flow Diagram
-
-```mermaid
-flowchart LR
-    A[Rice Straw Collection] --> B[Pretreatment (Physical/Chemical/Biological)]
-    B --> C[Enzymatic Hydrolysis]
-    C --> D[Fermentation (Yeast)]
-    D --> E[Distillation]
-    E --> F[Bioethanol]
-```
 
 ---
 
